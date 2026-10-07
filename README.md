@@ -1,4 +1,6 @@
 # Multi-objective optimization for social multifamily housing: Minimizing heating and cooling demand
+[![DOI](https://zenodo.org/badge/1409341372.svg)](https://doi.org/10.5281/zenodo.23223419)
+
 Building Energy Optimization — Doctoral Thesis Code and Data
 
 Simulation models, optimization notebooks and result files of a doctoral thesis on the multi-objective optimization of the thermal energy performance of residential buildings in a subtropical climate (Passo Fundo, Rio Grande do Sul, Brazil).
@@ -114,7 +116,11 @@ Code and notebooks: MIT (see `LICENSE`). Models, results and figures: CC BY-NC 4
 
 ## How to cite
 
-If you use this material, please cite the doctoral thesis (Letiane Benincá, PhD, joint supervision UFRGS and UPC Barcelona, 2024). A DOI for this repository and a full reference will be added here.
+If you use the code, models or results, please cite this repository:
+
+> Benincá, L. (2026). *Multi-objective optimization for social multifamily housing: thesis code, models and results (Phases I–III)* [Software]. Zenodo. https://doi.org/10.5281/zenodo.23223419
+
+and the doctoral thesis (Letiane Benincá, PhD, joint supervision UFRGS and UPC Barcelona, 2024).
 
 ## Author
 
