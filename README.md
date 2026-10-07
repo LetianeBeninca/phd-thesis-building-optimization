@@ -1,5 +1,5 @@
 # Multi-objective optimization for social multifamily housing: Minimizing heating and cooling demand
-# Building Energy Optimization — Doctoral Thesis Code and Data
+Building Energy Optimization — Doctoral Thesis Code and Data
 
 Simulation models, optimization notebooks and result files of a doctoral thesis on the multi-objective optimization of the thermal energy performance of residential buildings in a subtropical climate (Passo Fundo, Rio Grande do Sul, Brazil).
 
@@ -31,7 +31,7 @@ Two building typologies are modelled in every phase: the **H Building** (H-shape
 ├── docs/file-mapping.csv  Original file names -> paths in this repository
 ├── requirements.txt
 ├── LICENSE                MIT (code and notebooks)
-└── LICENSE-DATA.md        CC BY 4.0 (models, results, figures)
+└── LICENSE-DATA.md        CC BY-NC 4.0 (models, results, figures)
 ```
 
 Inside each `building/` folder:
@@ -110,7 +110,7 @@ The notebooks in the repository keep their saved outputs from the original runs.
 
 ## License
 
-Code and notebooks: MIT (see `LICENSE`). Models, results and figures: CC BY 4.0 (see `LICENSE-DATA.md`). The weather file is third-party material and is not covered by these licenses.
+Code and notebooks: MIT (see `LICENSE`). Models, results and figures: CC BY-NC 4.0 (see `LICENSE-DATA.md`); commercial use requires prior written permission. The weather file is third-party material and is not covered by these licenses.
 
 ## How to cite
 
