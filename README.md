@@ -1,3 +1,4 @@
+# Multi-objective optimization for social multifamily housing: Minimizing heating and cooling demand
 # Building Energy Optimization — Doctoral Thesis Code and Data
 
 Simulation models, optimization notebooks and result files of a doctoral thesis on the multi-objective optimization of the thermal energy performance of residential buildings in a subtropical climate (Passo Fundo, Rio Grande do Sul, Brazil).
