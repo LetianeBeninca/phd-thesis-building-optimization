@@ -1,0 +1,42 @@
+original_file (thesis working folder),repository_path,note
+Fase I/H Building_Isolated_12jan23_VF.idf,phase-1-isolated-scenario/h-building/models/h_isolated.idf,IDF model
+Fase I/12jan23_H_Iso_Orientation Optimization (100x200).ipynb,phase-1-isolated-scenario/h-building/notebooks/h_isolated_orientation_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+Fase I/saida_otm_orientation_H_100x200.csv,phase-1-isolated-scenario/h-building/results/h_isolated_orientation_results.csv,results CSV: re-exported with comma separator and decimal point (original was ;-separated with decimal comma)
+Fase I/Linear Building_Isolated_12jan23_VF.idf,phase-1-isolated-scenario/linear-building/models/linear_isolated.idf,IDF model
+Fase I/13jan23_L_Iso_Orientation Optimization (100x200).ipynb,phase-1-isolated-scenario/linear-building/notebooks/linear_isolated_orientation_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+Fase I/saida_otm_orientation_L_100x200.csv,phase-1-isolated-scenario/linear-building/results/linear_isolated_orientation_results.csv,results CSV: re-exported with comma separator and decimal point (original was ;-separated with decimal comma)
+Fase II/H Building_Condo_12jan23_VF.idf,phase-2-surroundings/h-building/models/h_surroundings.idf,IDF model
+Fase II/14jan23_H_Cond_Orientation Optimization (100x200).ipynb,phase-2-surroundings/h-building/notebooks/h_surroundings_orientation_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+Fase II/saida_otm_condo_orientation_H_100x200.csv,phase-2-surroundings/h-building/results/h_surroundings_orientation_results.csv,results CSV: re-exported with comma separator and decimal point (original was ;-separated with decimal comma)
+Fase II/Linear Building_Condo_14jan23_VF.idf,phase-2-surroundings/linear-building/models/linear_surroundings.idf,IDF model
+Fase II/14jan23_L_Cond_Orientation Optimization (100x200).ipynb,phase-2-surroundings/linear-building/notebooks/linear_surroundings_orientation_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+Fase II/saida_otm_condo_orientation_L_100x200.csv,phase-2-surroundings/linear-building/results/linear_surroundings_orientation_results.csv,results CSV: re-exported with comma separator and decimal point (original was ;-separated with decimal comma)
+Fase III/H Building/H Building_Condo_15jan23_Envelope_VF.idf,phase-3-envelope-optimization/h-building/models/h_envelope_rb.idf,IDF model
+Fase III/H Building/17jan23_H_EnvelopeRB_Optimization.ipynb,phase-3-envelope-optimization/h-building/notebooks/h_envelope_rb_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+Fase III/H Building/saida_otm_geral_H_RB_Envelope_500.csv,phase-3-envelope-optimization/h-building/results/h_envelope_rb_results.csv,results CSV: copied as is
+Fase III/H Building/H Building_Condo_Envelope_15jan23_V15p_VF.idf,phase-3-envelope-optimization/h-building/models/h_envelope_wwr15.idf,IDF model
+Fase III/H Building/18jan23_H_Envelope15%_Optimization.ipynb,phase-3-envelope-optimization/h-building/notebooks/h_envelope_wwr15_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+Fase III/H Building/saida_otm_geral_H15_Envelope_500.csv,phase-3-envelope-optimization/h-building/results/h_envelope_wwr15_results.csv,results CSV: copied as is
+Fase III/H Building/H Building_Condo_Envelope_02feb23_V20p_VF.idf,phase-3-envelope-optimization/h-building/models/h_envelope_wwr20.idf,IDF model
+Fase III/H Building/08feb23_H_Envelope20%_Optimization.ipynb,phase-3-envelope-optimization/h-building/notebooks/h_envelope_wwr20_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+Fase III/H Building/saida_otm_geral_H20_Envelope_500.csv,phase-3-envelope-optimization/h-building/results/h_envelope_wwr20_results.csv,results CSV: re-exported with comma separator and decimal point (original was ;-separated with decimal comma)
+Fase III/H Building/H Building_Condo_Envelope_19jan23_V25p_VF.idf,phase-3-envelope-optimization/h-building/models/h_envelope_wwr25.idf,IDF model
+Fase III/H Building/21jan23_H_Envelope25%_Optimization.ipynb,phase-3-envelope-optimization/h-building/notebooks/h_envelope_wwr25_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+Fase III/H Building/saida_otm_geral_H25_Envelope_500.csv,phase-3-envelope-optimization/h-building/results/h_envelope_wwr25_results.csv,results CSV: copied as is
+Fase III/Linear Building/Linear Building_Condo_23jan23_VF.idf,phase-3-envelope-optimization/linear-building/models/linear_envelope_rb.idf,IDF model
+Fase III/Linear Building/23jul23_L_EnvelopeRB_Optimization.ipynb,phase-3-envelope-optimization/linear-building/notebooks/linear_envelope_rb_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+99_Evidencias_2023/CSVs_2023/saida_otm_geral_L_RB_Envelope_500.csv,phase-3-envelope-optimization/linear-building/results/linear_envelope_rb_results.csv,results CSV: copied as is
+Fase III/Linear Building/L Building_Condo_Envelope_23jan23_V15p_VF.idf,phase-3-envelope-optimization/linear-building/models/linear_envelope_wwr15.idf,IDF model
+Fase III/Linear Building/26jan23_L_Envelope15%_Optimization.ipynb,phase-3-envelope-optimization/linear-building/notebooks/linear_envelope_wwr15_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+99_Evidencias_2023/CSVs_2023/saida_otm_geral_L15_Envelope_500.csv,phase-3-envelope-optimization/linear-building/results/linear_envelope_wwr15_results.csv,results CSV: copied as is
+Fase III/Linear Building/L Building_Condo_Envelope_24jan23_V20p_VF.idf,phase-3-envelope-optimization/linear-building/models/linear_envelope_wwr20.idf,IDF model
+Fase III/Linear Building/27jan23_L_Envelope20%_Optimization.ipynb,phase-3-envelope-optimization/linear-building/notebooks/linear_envelope_wwr20_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+99_Evidencias_2023/CSVs_2023/saida_otm_geral_L20_Envelope_500.csv,phase-3-envelope-optimization/linear-building/results/linear_envelope_wwr20_results.csv,results CSV: re-exported with comma separator and decimal point (original was ;-separated with decimal comma)
+Fase III/Linear Building/L Building_Condo_Envelope_24jan23_V25p_VF.idf,phase-3-envelope-optimization/linear-building/models/linear_envelope_wwr25.idf,IDF model
+Fase III/Linear Building/28jan23_L_Envelope25%_Optimization.ipynb,phase-3-envelope-optimization/linear-building/notebooks/linear_envelope_wwr25_optimization.ipynb,"notebook: paths updated, markdown/comments in English, header cell added"
+99_Evidencias_2023/CSVs_2023/saida_otm_geral_L25_Envelope_500.csv,phase-3-envelope-optimization/linear-building/results/linear_envelope_wwr25_results.csv,results CSV: copied as is
+BRA_RS_Passo.Fundo.869630_TMYx.2007-2021.epw,weather/BRA_RS_Passo.Fundo.869630_TMYx.2007-2021.epw,weather file (identical copies existed in the root and in Fase III/H Building)
+Fase I/20230717_HBuilding-Isolated.png,figures/phase1_h_isolated_demand_by_floor.png,figure
+Fase I/20230717_LinearBuilding-Isolated.png,figures/phase1_linear_isolated_demand_by_floor.png,figure
+Fase II/20230717_HBuilding-Surroundings.png,figures/phase2_h_surroundings_demand_by_floor.png,figure
+Fase II/20230717_LinearBuilding-Surroundings.png,figures/phase2_linear_surroundings_demand_by_floor.png,figure

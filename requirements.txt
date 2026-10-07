@@ -1,0 +1,7 @@
+besos
+platypus-opt
+pandas
+matplotlib
+plotly
+dask[distributed]
+jupyterlab
